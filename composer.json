@@ -20,6 +20,8 @@
     ],
     "require": {
         "php": ">= 5.3.0",
+        "slim/slim": "2.4.*",
+        "slim/views":"0.1.2",
         "illuminate/database" : "4.*"
     },
     "autoload": {
