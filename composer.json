@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/username/hello-world"
+            "url": "https://github.com/thantalas/slim-nne"
         }
     ],
     "require": {
