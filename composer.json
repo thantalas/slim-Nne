@@ -38,7 +38,10 @@
                 "app/Middlewares/",
                 "app/Modules/"
             ]
-        }
+        },
+        "psr-0": {
+       		"Nne": "Nne/"
+  	}
     },
     "config": {
         "preferred-install": "dist"
