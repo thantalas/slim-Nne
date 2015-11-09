@@ -38,5 +38,9 @@
                 "app/Modules/"
             ]
         }
-    }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev"
 }
