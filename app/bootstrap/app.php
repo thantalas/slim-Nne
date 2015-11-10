@@ -21,7 +21,7 @@ $app->config('css.version','0.1');
 $app->config('js.version','0.1');
 $app->config('fe.asset.forceless',false);
 $app->config('fe.asset.css',array(
-		'bootstrap.css',
+		'bootstrap.min.css',
 		'app.less',
 	)
 );
